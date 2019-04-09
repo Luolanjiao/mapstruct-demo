@@ -1,0 +1,2 @@
+# mapstruct的简单示例
+mapstruct可以在DO和DTO之间建立映射。只需要定义一个mapper接口，接口返回mapper实例和映射方法。
